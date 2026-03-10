@@ -73,3 +73,5 @@ git clone https://github.com/SandeshKhatiwada05/springboot-wrestling-crud-api
 Docker-based database setup
 
 Swagger API documentation
+
+Selenium Testing
